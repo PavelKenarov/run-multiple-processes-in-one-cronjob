@@ -2,7 +2,7 @@
 
 - Run cronjob:
 ```shell
-3 * * * /php_path/php /root_path/feed_generator.php
+3 * * * /php_path/php /root_path/feed_generator.php zizito3
 ```
 - The whole idea is represent in this piece of code:
 ```php
